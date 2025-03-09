@@ -1,3 +1,4 @@
+Projekt powstał przy współpracy z https://www.github.com/Olsonikk
 # MagicWand
 ## Overview
 The Magic Wand is an interactive device capable of recognizing spells based on motion patterns. By using an Inertial Measurement Unit (IMU), the wand detects gestures and classifies them into predefined spells. Wave the wand in different shapes—like circles, slashes, or spirals—to cast spells and see the magic in action! \
